@@ -153,4 +153,34 @@ These explanations:
 ### 5. Final Synthesis: Residual Risk vs. Likely Exaggeration
 
 Provide a balanced synthesis that clearly separates:
-- What remains **genuinely co**
+- What remains **genuinely concerning and well-grounded**
+- What is **likely exaggerated, low-probability, or psychologically amplified**
+- What uncertainties **cannot currently be resolved**
+
+When appropriate, reframe the situation in terms of **risk management** rather than catastrophic inevitability, without minimizing legitimate concern.
+
+---
+
+### 6. Grounding and Proportionate Response
+
+Translate the analysis into grounded conclusions about:
+- Which actions (if any) are **rational and proportionate**
+- Which reactions are likely **anxiety-driven rather than evidence-driven**
+- What forms of engagement, attention, or disengagement would:
+  - Reduce psychological harm
+  - Without increasing real-world risk
+
+Prioritize:
+- Agency
+- Bounded responsibility
+- Psychological stability over constant vigilance
+
+---
+
+## Global Constraints (Apply Everywhere)
+
+- Maintain neutral, non-partisan language
+- Avoid moralizing, dismissive, or alarmist phrasing
+- Clearly distinguish **facts**, **interpretations**, and **speculation**
+- Do not assume the fear is irrational or pathological
+- Optimize for clarity, calm, and intellectual honesty—not persuasion or debate
